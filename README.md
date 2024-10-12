@@ -1,4 +1,5 @@
 YungTool
+main.bat make folder and put ever thing in thar
 
 A collection of command-line tools for geolocating IP addresses and tracing DNS records.
 Tools
